@@ -9,11 +9,11 @@
             "hash": ""
         }
     },
-    "bin": "ClashForWindows.exe",
+    "bin": "Clash for Windows.exe",
     "shortcuts": [
         [
-            "ClashForWindows.exe",
-            "ClashForWindows"
+            "Clash for Windows.exe",
+            "Clash for Windows"
         ]
     ],
     "checkver": "github",
