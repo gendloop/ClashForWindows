@@ -1,5 +1,5 @@
 
 PROJECT_NAME=ClashForWindows
 ClashForWindows_VERSION_MAJOR=0
-ClashForWindows_VERSION_MINOR=19
-ClashForWindows_VERSION_PATCH=2
+ClashForWindows_VERSION_MINOR=20
+ClashForWindows_VERSION_PATCH=37
