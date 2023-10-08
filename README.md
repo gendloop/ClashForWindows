@@ -1,8 +1,8 @@
-# RepoName
+# ClashForWindows
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/ClashForWindows
 ```
 
